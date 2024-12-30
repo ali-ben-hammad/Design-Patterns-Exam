@@ -18,11 +18,11 @@ Ce projet implémente un réseau de neurones artificiels en utilisant Java et pl
 
 ### Structure du Projet
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7efb5cee-835a-46c2-a61f-58ed4cbe0c9c/25626f76-1af9-4e84-9b6d-ef25b9fd8476/image.png)
+![image.png](images2-000.png)
 
 ### Diagramme de Classes
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7efb5cee-835a-46c2-a61f-58ed4cbe0c9c/5e67c022-4aed-4772-a668-aa479a1697c0/image.png)
+![image.png](images2-001.png)
 
 Le projet est organisé en plusieurs packages :
 
@@ -309,9 +309,9 @@ public class SecurityAspect {
 
 ### Tests des Design Patterns
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7efb5cee-835a-46c2-a61f-58ed4cbe0c9c/5854c3d4-69f5-420b-af7b-ac2eea44fa54/image.png)
+![image.png](images2-002.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7efb5cee-835a-46c2-a61f-58ed4cbe0c9c/54ac5a71-c3dc-4c0c-89da-8fae76ace082/image.png)
+![image.png](images2-003.png)
 
 ## Conclusion
 
